@@ -1,4 +1,5 @@
 # JavaScript
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 Repository ini berisi kumpulan kode dan eksperimen **JavaScript** untuk pembelajaran, latihan logika, dan dokumentasi pribadi.
 
