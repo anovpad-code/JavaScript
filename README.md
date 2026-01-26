@@ -1,6 +1,8 @@
 # JavaScript
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
+https://translate.google.com/translate?sl=en&tl=id&u=https://github.com/anovpad-code
+
 Repository ini berisi kumpulan kode dan eksperimen **JavaScript** untuk pembelajaran, latihan logika, dan dokumentasi pribadi.
 
 Repo ini fokus pada **JavaScript saja**, tanpa framework tertentu.
